@@ -1,2 +1,2 @@
 # Budget-Analysis
-This is the budget analysis report of India Budget 2023.
+This is the budget analysis report of India's Union Budget 2023.
